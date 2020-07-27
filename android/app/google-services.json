@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "129393909774",
+    "firebase_url": "https://ta-spotegal.firebaseio.com",
+    "project_id": "ta-spotegal",
+    "storage_bucket": "ta-spotegal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129393909774:android:05c809125f4056bc3c9c5f",
+        "android_client_info": {
+          "package_name": "com.spottegal.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129393909774-fivbkon7051q8p7qlpcp627s8t0sf0rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spottegal.android",
+            "certificate_hash": "d440bc945af32f9dd0c6ff96dbc2d1fccc3d3c6e"
+          }
+        },
+        {
+          "client_id": "129393909774-n3os60luc0fhqdck2rjfknr0qi3mdqcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spottegal.android",
+            "certificate_hash": "7789bd58b0c2fcba2dd007b79013f9ad96c50718"
+          }
+        },
+        {
+          "client_id": "129393909774-kuhabi44t50rqdfitakcio76c59bbdia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvqpogajkh662mOHup6hp7HRF5QTUOSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129393909774-kuhabi44t50rqdfitakcio76c59bbdia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
